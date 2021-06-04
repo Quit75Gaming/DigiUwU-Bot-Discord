@@ -3,29 +3,29 @@
 
 ### 🚀 Menu
 - [Instalation](#Instalation)
-- [List Command](#List Command)
+- [Command](#Command)
 - [License](#license)
 
 ## Instalation
 
 #### In Windows
-- 1. First Install Nodejs 12 
-- 2. Clone This Repository
-- 3. And Execute This Command
+- I. First Install Nodejs 12 
+- II. Clone This Repository
+- III. And Execute This Command
 - npm i 
 - node index.js
 
 #### In Debian 
-- 1. Executw This Command
+- I. Executw This Command
 - bash install-debian.sh (Only Work In Debian!)
-- 2. node index.js
+- I. node index.js
 
 #### In Arch Linux 
-- 1. Execute This Command
+- I. Execute This Command
 - bash install-arch.sh (Only Work In Arch Linux!)
-- 2. node index.js
+- I. node index.js
 
-## List Command 
+## Command 
 - (COMING SOON!)
 
 ## License
